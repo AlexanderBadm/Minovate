@@ -1,0 +1,33 @@
+@import "variables";
+.clearfix () {
+	&:after {
+		content: '';
+		display: table;
+		clear: both;
+	}
+}
+.list{
+	padding: 0;
+	margin: 0;
+}
+.bootstrap-padding{
+	padding-left: 0;
+	padding-right: 0;
+}
+.border-aside{
+	border-bottom:2px solid @global-body-background;
+}
+.category-padding{
+    padding-top: 0!important;
+	padding-bottom: 0!important;
+}
+.category-list{
+	padding-top: 10px!important;
+	padding-bottom: 10px!important;
+}
+.category-line{
+	line-height: 32px;
+}
+.category-color-mod{
+	color: @global-primary-color!important;
+}

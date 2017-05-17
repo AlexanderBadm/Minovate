@@ -1,0 +1,130 @@
+@import "variables";
+.main-slider{
+  .main-slider-inner{
+    .main-slider-list{
+      > li{
+        > img{
+          width: 100%;
+        }
+      }
+    }
+    .bx-wrapper{
+      border: none;
+      box-shadow: none;
+      background-color: inherit;
+      margin-bottom: 0;
+    }
+    .bxslider-main-controls{
+      position: absolute;
+      top: 50%;
+      display: flex;
+      width: 100%;
+      justify-content: space-between;
+      .bxslider-main-prev, .bxslider-main-next{
+         text-decoration: none;
+        color: white;
+        > a{
+          height: 100px;
+          //background-color: black;
+          //opacity: 0.3;
+          background: rgba(0,0,0,.3);
+          width: 27px;
+          font-size: 24px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          text-decoration: none;
+          color: white;
+          &:hover{
+            color: @global-link-color;
+          }
+          &:focus{
+            color: @global-secondary-background;
+          }
+        }
+
+
+      }
+
+    }
+  }
+}
+.block-arrivals{
+  .block-arrivals-inner{
+    .bx-wrapper{
+      box-shadow: none;
+      border:none;
+      margin-bottom: 0;
+    }
+    .bx-slider-controls{
+      display: flex;
+      position: absolute;
+      top: 12px;
+      right: 10px;
+      .bxslider-next-cust, .bxslider-perv-cust{
+        text-decoration: none;
+       > a{
+         display: flex;
+         flex-direction: row;
+         width: 20px;
+         height: 20px;
+         align-items: center;
+         justify-content: center;
+         border-radius: 50%;
+         text-decoration: none;
+         color: @global-color;
+         font-size: @global-font-size + 5 ;
+         margin-right: 10px;
+         &:hover{
+           color: #fff;
+           background-color: @global-secondary-background;
+         }
+         &:focus{
+           color:gold;
+         }
+       }
+
+      }
+    }
+  }
+}
+
+.block-body{
+  .block-body-inner{
+    .block-body-aside{
+      .body-aside-price{
+        .body-aside-price-slider{
+          display: flex;
+          align-items: center;
+          margin-bottom: 16px;
+          color:#b2b2b2;
+          input{
+            max-width: 20px;
+            border:none;
+            outline: none;
+            color:#b2b2b2;
+          }
+          .line{
+            margin-right: 5px;
+          }
+        }
+        #slider-price{
+
+          max-height: 8px;
+          background-color: #f2f2f2;
+          border-radius: 0;
+           .ui-slider-range{
+            border: none;
+            background-color: #e05d6f;
+
+          }
+            .ui-slider-handle{
+            border: 1px solid #000;
+            background-color: #000;
+            border-radius: 0;
+          }
+        }
+      }
+    }
+  }
+}
