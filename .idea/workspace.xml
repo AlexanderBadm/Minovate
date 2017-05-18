@@ -63,16 +63,16 @@
       <file leaf-file-name="single-product.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/single-product.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="195" column="0" lean-forward="false" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+            <state relative-caret-position="220">
+              <caret line="196" column="44" lean-forward="false" selection-start-line="196" selection-start-column="44" selection-end-line="196" selection-end-column="44" />
               <folding>
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <marker date="1495106609928" expanded="false" signature="12952:18858" ph="..." />
-                <marker date="1495106609928" expanded="false" signature="18896:20446" ph="..." />
-                <marker date="1495106609928" expanded="false" signature="20475:45760" ph="..." />
-                <marker date="1495106609928" expanded="false" signature="45802:50707" ph="..." />
-                <marker date="1495106609928" expanded="false" signature="50748:52390" ph="..." />
+                <marker date="1495107394001" expanded="false" signature="13088:18994" ph="..." />
+                <marker date="1495107394001" expanded="false" signature="19032:20582" ph="..." />
+                <marker date="1495107394001" expanded="false" signature="20611:45896" ph="..." />
+                <marker date="1495107394001" expanded="false" signature="45938:50843" ph="..." />
+                <marker date="1495107394001" expanded="false" signature="50884:52526" ph="..." />
               </folding>
             </state>
           </provider>
@@ -397,7 +397,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196624000" />
+    <option name="totallyTimeSpent" value="197424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -785,16 +785,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/single-product.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="195" column="0" lean-forward="false" selection-start-line="195" selection-start-column="0" selection-end-line="195" selection-end-column="0" />
+        <state relative-caret-position="220">
+          <caret line="196" column="44" lean-forward="false" selection-start-line="196" selection-start-column="44" selection-end-line="196" selection-end-column="44" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <marker date="1495106609928" expanded="false" signature="12952:18858" ph="..." />
-            <marker date="1495106609928" expanded="false" signature="18896:20446" ph="..." />
-            <marker date="1495106609928" expanded="false" signature="20475:45760" ph="..." />
-            <marker date="1495106609928" expanded="false" signature="45802:50707" ph="..." />
-            <marker date="1495106609928" expanded="false" signature="50748:52390" ph="..." />
+            <marker date="1495107394001" expanded="false" signature="13088:18994" ph="..." />
+            <marker date="1495107394001" expanded="false" signature="19032:20582" ph="..." />
+            <marker date="1495107394001" expanded="false" signature="20611:45896" ph="..." />
+            <marker date="1495107394001" expanded="false" signature="45938:50843" ph="..." />
+            <marker date="1495107394001" expanded="false" signature="50884:52526" ph="..." />
           </folding>
         </state>
       </provider>
