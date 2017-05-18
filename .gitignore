@@ -1,4 +1,4 @@
-#idea-folder
-.idea/workspace.xml,
-.iwc,
-.xml
+# idea-folder:
+.idea/workspace.xml
+.idea/watcherTasks.xml
+
