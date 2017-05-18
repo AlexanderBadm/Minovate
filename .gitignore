@@ -1,2 +1,6 @@
-#idea-folder
+# idea-folder:
 .idea/workspace.xml
+.idea/watcherTasks.xml
+
+# node:
+node_modules/
